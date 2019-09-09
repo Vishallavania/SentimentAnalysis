@@ -1,0 +1,11 @@
+C:\Users\devNXT\source\repos\SentimentAnalysis1\bin\Debug\netcoreapp2.1\SentimentAnalysis1.deps.json
+C:\Users\devNXT\source\repos\SentimentAnalysis1\bin\Debug\netcoreapp2.1\SentimentAnalysis1.runtimeconfig.json
+C:\Users\devNXT\source\repos\SentimentAnalysis1\bin\Debug\netcoreapp2.1\SentimentAnalysis1.runtimeconfig.dev.json
+C:\Users\devNXT\source\repos\SentimentAnalysis1\bin\Debug\netcoreapp2.1\SentimentAnalysis1.dll
+C:\Users\devNXT\source\repos\SentimentAnalysis1\obj\Debug\netcoreapp2.1\SentimentAnalysis1.csprojAssemblyReference.cache
+C:\Users\devNXT\source\repos\SentimentAnalysis1\obj\Debug\netcoreapp2.1\SentimentAnalysis1.csproj.CoreCompileInputs.cache
+C:\Users\devNXT\source\repos\SentimentAnalysis1\obj\Debug\netcoreapp2.1\SentimentAnalysis1.AssemblyInfoInputs.cache
+C:\Users\devNXT\source\repos\SentimentAnalysis1\obj\Debug\netcoreapp2.1\SentimentAnalysis1.AssemblyInfo.cs
+C:\Users\devNXT\source\repos\SentimentAnalysis1\bin\Debug\netcoreapp2.1\SentimentAnalysis1.pdb
+C:\Users\devNXT\source\repos\SentimentAnalysis1\obj\Debug\netcoreapp2.1\SentimentAnalysis1.dll
+C:\Users\devNXT\source\repos\SentimentAnalysis1\obj\Debug\netcoreapp2.1\SentimentAnalysis1.pdb
